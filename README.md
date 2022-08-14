@@ -1,4 +1,4 @@
- #EDA-Project---Case-Study-on-Startup-funding   
+ # EDA-Project---Case-Study-on-Startup-funding   
                                                 
                                                 
 **This is an Exploratory Data Analysis project in Coding Ninja's Data Science course.**
